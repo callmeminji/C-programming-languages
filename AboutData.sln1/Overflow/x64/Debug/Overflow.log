@@ -1,0 +1,6 @@
+﻿  Overflow.c
+C:\Users\giyom\source\repos\AboutData.proj1\Overflow\Overflow.c(19,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\Overflow\Overflow.c(19,9): message : consider using '%zu' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Overflow\Overflow.c(20,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\Overflow\Overflow.c(20,9): message : consider using '%zu' in the format string
+  Overflow.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\Overflow.exe

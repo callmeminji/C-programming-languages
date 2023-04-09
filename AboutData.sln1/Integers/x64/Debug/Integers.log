@@ -1,0 +1,6 @@
+﻿  Integers.c
+C:\Users\giyom\source\repos\AboutData.proj1\Integers\Integers.c(37,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type '__int64'
+C:\Users\giyom\source\repos\AboutData.proj1\Integers\Integers.c(37,9): message : consider using '%lld' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Integers\Integers.c(37,9): message : consider using '%Id' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Integers\Integers.c(37,9): message : consider using '%I64d' in the format string
+  Integers.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\Integers.exe
