@@ -1,5 +1,0 @@
-﻿  My3rdProj.c
-C:\Users\giyom\source\repos\AboutData.proj1\MyCprogrammingStart11\My3rdProj.c(21,9): warning C4473: 'printf' : not enough arguments passed for format string
-C:\Users\giyom\source\repos\AboutData.proj1\MyCprogrammingStart11\My3rdProj.c(21,9): message : placeholders and their parameters expect 5 variadic arguments, but 4 were provided
-C:\Users\giyom\source\repos\AboutData.proj1\MyCprogrammingStart11\My3rdProj.c(21,9): message : the missing variadic argument 5 is required by format string '%#X'
-  MyCprogrammingStart11.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\MyCprogrammingStart11.exe
