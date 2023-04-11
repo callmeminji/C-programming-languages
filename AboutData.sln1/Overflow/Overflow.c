@@ -4,8 +4,10 @@ Written by M.J.Hong
 Starting date 23.04.09
 Last update 23.04.09
 
+Contents : Overflow 
 */
 
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <limits.h>	//Standard values for limits on resources (such as the maximum value for an object of type char)
 #include <stdlib.h>

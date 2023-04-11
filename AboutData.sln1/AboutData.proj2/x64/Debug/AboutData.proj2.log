@@ -1,0 +1,4 @@
+﻿  AboutData.proj2.c
+C:\Users\giyom\source\repos\AboutData.proj1\AboutData.proj2\AboutData.proj2.c(30,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\AboutData.proj2\AboutData.proj2.c(30,9): message : consider using '%zu' in the format string
+  AboutData.proj2.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\AboutData.proj2.exe

@@ -1,0 +1,9 @@
+﻿  Realnumber.c
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(18,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(18,9): message : consider using '%zu' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(19,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(19,9): message : consider using '%zu' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(20,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(20,9): message : consider using '%zu' in the format string
+C:\Users\giyom\source\repos\AboutData.proj1\Realnumber\Realnumber.c(93): warning C4723: potential divide by 0
+  Realnumber.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\Realnumber.exe

@@ -4,8 +4,9 @@ Written by M.J.Hong
 Starting date 23.04.09
 Last update 23.04.09
 
+Contents : Integers , Octal& Hexadecimal
 */
-
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <limits.h>
 #include <stdlib.h>
@@ -32,7 +33,7 @@ void integers()
 
 	printf("char = %hhd, %d, %c\n", c, c, c);
 	printf("short = %hhd, %hd, %d\n", s, s, s);	//eg for overflow
-	printf("unsignde int = %u, %d\n", ui, ui);
+	printf("unsigned int = %u, %d\n", ui, ui);
 	printf("long = %ld, %hd\n", l, l);
 	printf("long long = %lld, %ld,\n", ll, ll);
 

@@ -1,0 +1,7 @@
+﻿  Fixed_width_integers.c
+C:\Users\giyom\source\repos\AboutData.proj1\Fixed_width_integers\Fixed_width_integers.c(19,15): warning C4101: 'i8': unreferenced local variable
+C:\Users\giyom\source\repos\AboutData.proj1\Fixed_width_integers\Fixed_width_integers.c(21,11): warning C4101: 'imax': unreferenced local variable
+C:\Users\giyom\source\repos\AboutData.proj1\Fixed_width_integers\Fixed_width_integers.c(22,12): warning C4101: 'uimax': unreferenced local variable
+C:\Users\giyom\source\repos\AboutData.proj1\Fixed_width_integers\Fixed_width_integers.c(20,14): warning C4101: 'f8': unreferenced local variable
+C:\Users\giyom\source\repos\AboutData.proj1\Fixed_width_integers\Fixed_width_integers.c(17,6): warning C4101: 'i': unreferenced local variable
+  Fixed_width_integers.vcxproj -> C:\Users\giyom\source\repos\AboutData.proj1\x64\Debug\Fixed_width_integers.exe

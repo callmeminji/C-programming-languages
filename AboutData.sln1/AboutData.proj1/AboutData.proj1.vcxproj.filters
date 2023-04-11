@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AboutData.proj1.c">
+    <ClCompile Include="AboutData.proj1_scanf.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
